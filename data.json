@@ -1,0 +1,23 @@
+{
+  
+    users:[
+      {
+        name: "John",
+        address: {
+          city: "GoodTown",
+          country: "Amazing States of Unity"
+        }
+      },
+      {
+        name: "Marry",
+        address: {
+          city: "JobTown",
+          country: "Employment Emirates"
+        }
+      }//,
+      
+      // ...
+  
+    ]
+    
+  }
